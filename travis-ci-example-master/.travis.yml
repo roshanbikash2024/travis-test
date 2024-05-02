@@ -11,4 +11,4 @@ jobs:
       script: ./mvnw clean test
 
 notification:
-  email: info@techprimers.com
+  email: bikash.latest08@gmail.com
